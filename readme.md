@@ -1,4 +1,4 @@
-# — Prompt Engineering
+# Prompt Engineering
 
 Five prompting techniques applied to the same sentiment classification task.
 Tested manually via Google AI Studio (Gemini 1.5 Flash) — API integration pending.
